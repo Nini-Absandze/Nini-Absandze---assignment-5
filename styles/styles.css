@@ -1,0 +1,114 @@
+body {
+	padding: 54px 52px;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	margin-left: 60px;
+}
+
+a {
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.twenty-six {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 27.6px;
+	text-align: center;
+	padding-top: 12px;
+	margin-bottom: 18px;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 28.8px;
+	color: #8D81FF;
+	margin-bottom: 18px;
+}
+
+h3 {
+	display: inline-block;
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: 700;
+	color: #7E8898;
+	margin-bottom: 13px;
+}
+
+p {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19.2px;
+	color: #4E6FAE;
+	vertical-align: middle;
+}
+
+.pirveli {
+	vertical-align: top;
+	margin-bottom: 155px;
+}
+
+.teqsti {
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+	margin-left: 66px; 
+}
+
+.boloteqsti {
+	display: inline-block;
+	width: 1021px;
+	vertical-align: top;
+	margin-left: 10px; 
+}
+
+.meore {
+	margin-bottom: 155px;
+}
+
+.mesame {
+	margin-bottom: 32px;
+	display: block;
+}
+
+.line {
+	display: inline-block;
+	border: 2px solid #5012D5;
+	height: 40px;
+	vertical-align: middle;
+	margin: 0 18px;
+}
+
+footer {
+	margin-top: 106px;
+}
