@@ -68,6 +68,11 @@ p {
 	color: #3F4145;
 }
 
+.ruka {
+	display: inline-block;
+	width: 600px;
+}
+
 span {
 	color: #7E8898
 }
