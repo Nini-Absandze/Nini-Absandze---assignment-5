@@ -18,6 +18,7 @@ nav {
 ul {
 	display: inline-block;
 	vertical-align: middle;
+	font-family: "BPG Square", sans-serif;
 }
 
 li {
@@ -63,6 +64,7 @@ h3 {
 	font-weight: 700;
 	color: #7E8898;
 	margin-bottom: 13px;
+	font-family: "BPG Nostalgia", sans-serif;
 }
 
 p {
@@ -71,6 +73,8 @@ p {
 	line-height: 19.2px;
 	color: #4E6FAE;
 	vertical-align: middle;
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+
 }
 
 .pirveli {
