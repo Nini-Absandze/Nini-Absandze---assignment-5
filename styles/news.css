@@ -24,6 +24,7 @@ nav {
 
 ul {
 	display: inline-block;
+	font-family: "BPG Square", sans-serif;
 }
 
 li {
@@ -55,6 +56,7 @@ h1 {
 	color: #4E6FAE;
 	font-weight: 700;
 	margin-bottom: 26px;
+	font-family: "BPG Square", sans-serif;
 }
 
 span {
@@ -86,6 +88,9 @@ h2 {
 	font-size: 20px;
 	font-weight: 400;
 	margin-bottom: 20px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
 }
 
 .text {
@@ -95,6 +100,9 @@ h2 {
 	display: inline-block;
 	width: 335px;
 	vertical-align: middle;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
 }
 
 .line {
